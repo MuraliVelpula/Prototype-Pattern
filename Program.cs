@@ -15,7 +15,7 @@ public class Document : ICloneable
     // Method to display document details
     public void ShowDocument()
     {
-        Console.WriteLine($"Title: {Title}"); // Outputs the document title
+        Console.WriteLine($"Title: {Title}"); ; ; ; ;; // Outputs the document title
         Console.WriteLine($"Content: {Content}"); // Outputs the document content
     }
 }
